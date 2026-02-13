@@ -70,17 +70,6 @@ https://notebooklm.google.com/notebook/06989967-1f57-48f8-8b33-fdc970ec7ec5
 
 ---
 
-## 🚀 Próximos Passos
-
-- Aprofundamento em **estatística e programação** ao longo da graduação
-- Evolução do projeto para:
-  - Análise descritiva de dados reais
-  - Visualização de dados
-  - Introdução à regressão e econometria
-- Construção gradual de **portfólio Quant/Data**
-
----
-
 ## ⚠️ Observação Importante
 
 Este repositório reflete **nível introdutório** e tem como objetivo aprendizado e formação de base conceitual.
@@ -153,17 +142,6 @@ All sources are **open, institutional, or educational**, and appropriate for an 
 
 🔗 **NotebookLM used in this project:**  
 https://notebooklm.google.com/notebook/06989967-1f57-48f8-8b33-fdc970ec7ec5
-
----
-
-## 🚀 Next Steps
-
-- Further development in **statistics and programming** throughout the undergraduate program
-- Evolution of the project toward:
-  - Descriptive analysis of real datasets  
-  - Data visualization  
-  - Introduction to regression and econometrics  
-- Gradual construction of a **Quant/Data portfolio**
 
 ---
 
